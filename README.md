@@ -26,7 +26,9 @@
 
 Также, за это мне выдали [значок](https://www.credly.com/badges/6c31d065-fd11-4a86-9a1a-b8860f389cc2/public_url) в сервисе Credly (недоступен в РФ):
 
-<img src="https://github.com/user-attachments/assets/aa425779-3f51-478f-883a-1bb8f6959aec" width="660" height="510"/>
+<table>
+  <td><img src="https://github.com/user-attachments/assets/aa425779-3f51-478f-883a-1bb8f6959aec" width="660" height="510"/></td>
+</table>
 
 <!-- Original size: 1280x720 -->
 <!-- Compressed size (1/2): 640x360 -->
