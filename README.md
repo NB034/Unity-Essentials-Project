@@ -22,6 +22,18 @@
   <td><video width="640" height="360" src="https://github.com/user-attachments/assets/d91fb512-a815-4fb4-b55a-f8eb60a5b97f"></video></td>
 <table>
 
+<br>
+
+Также за это мне выдали [значок](https://www.credly.com/badges/6c31d065-fd11-4a86-9a1a-b8860f389cc2/public_url) в сервисе Credly (недоступен в РФ):
+
+<img src="https://github.com/user-attachments/assets/aa425779-3f51-478f-883a-1bb8f6959aec" width="660" height="510"/>
+
 <!-- Original size: 1280x720 -->
 <!-- Compressed size (1/2): 640x360 -->
 <!-- Compressed size (1/4): 320x180 -->
+
+<!-- Original size: 3300x2550 -->
+<!-- Compressed size (1/2): 1650x1275 -->
+<!-- Compressed size (1/4): 825x638 -->
+<!-- Compressed size (1/5): 660x510 -->
+<!-- Compressed size (1/10): 330x255 -->
